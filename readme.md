@@ -18,3 +18,6 @@ g++ *.cc -o main -lpthread
 
 #### 示例
 bin目录下test.cc
+
+#### 架构说明
+详情见XMind或pdf文件
