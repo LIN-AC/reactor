@@ -1,14 +1,3 @@
-/*
- * @Author: cell_lin 1335954640@qq.com
- * @Date: 2022-09-16 14:44:03
- * @LastEditors: cell_lin 1335954640@qq.com
- * @LastEditTime: 2022-09-19 15:27:24
- * @FilePath: /Linux/tcp/threadpool/taskqueue.hh
- * @Description: 线程安全任务队列
- * bug：uniqueue_lock不能多次加锁，会死锁
- *
- * Copyright (c) 2022 by cell_lin 1335954640@qq.com, All Rights Reserved.
- */
 #pragma once
 
 #include <queue>
