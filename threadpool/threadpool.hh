@@ -1,13 +1,3 @@
-/*
- * @Author: cell_lin 1335954640@qq.com
- * @Date: 2022-09-16 15:06:11
- * @LastEditors: cell_lin 1335954640@qq.com
- * @LastEditTime: 2022-09-19 15:33:17
- * @FilePath: /Linux/tcp/threadpool/threadpool.hh
- * @Description: c++11线程池的封装
- *
- * Copyright (c) 2022 by cell_lin 1335954640@qq.com, All Rights Reserved.
- */
 #pragma once
 
 #include "taskqueue.hh"
